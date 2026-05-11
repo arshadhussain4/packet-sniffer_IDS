@@ -1,5 +1,4 @@
-# Network Packet Sniffer
-
+# Packet Sniffer / IDS 
 A Python-based network packet sniffer with a live GUI, threat detection, and automatic logging to CSV and alerts file.
 
 Built as part of a cybersecurity project to understand how data flows through a network, how protocols work, and how basic intrusion detection systems (IDS) operate.
